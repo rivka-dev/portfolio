@@ -1,0 +1,163 @@
+{
+    "basic_info": {
+      "description_header": "Bonjour",
+      "description": "Je suis Rivka Muller, jeune diploômée à l'issue d'une formation OpenClassrooms. Développeuse web, recherchant à m'améliorer constamment, et motivée pour mettre à profit mes compétences et enrichir mon expérience.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Booki, agence de voyage",
+        "startDate": "2023",
+        "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site",
+        "images": [          
+          "images/portfolio/booki/page.png",
+          "images/portfolio/booki/pageMobile.png"
+        ],
+        "url": "https://rivka-dev.github.io/AgenceVoyageBooki/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS3"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "git"
+          },
+          {
+            "class": "devicon-github-plain",
+            "name": "github"
+          }
+        ]
+      },
+      {
+        "title": "Sophie Buel, architecte d'intérieur",
+        "startDate": "2023",
+        "description": "Créer une page de connexion en html et gérer la connexion de l'utilsateur via des appels à l'API fourni. Création d'un filte des projets dans la galerie, et création d'un modale permettant d'uploader de nouveaux médias. Le code back-end ainsi que l'Api étaient fournis. ",
+        "images": [
+          "images/portfolio/sophieBuel/login.png",
+          "images/portfolio/sophieBuel/gallerie.png"
+        ],
+        "url": "https://rivka-dev.github.io/SophieBuelProjet3/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Menu Maker by Qwenta",
+        "startDate": "2023",
+        "description": "Rédiger les spécifications techniques d'un projet à partir de besoins fonctionnels, suivre le déroulement du projet grâce à un outil de gestion de projet, découper les fonctionnalités en tâches ainsi que présentation de la solution technique",
+        "images": [
+          "images/portfolio/qwenta/kanban.png",
+          "images/portfolio/qwenta/specificationsTechniques.png"
+        ],
+        "url": "https://www.notion.so/da9c876ba92c4c1092b77f4bfeea3285?v=464151634dba4005993d5c3e65d2e82d&pvs=4",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          }
+          
+        ]
+      },
+      {
+        "title": "Nina Carducci, site de photographe",
+        "startDate": "2023",
+        "description": "Amélioration du site qui est déja fournit, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
+        "images": [  
+        "images/portfolio/ninaCarducci/lighthouse.png",
+          "images/portfolio/ninaCarducci/wave.png"
+        ],
+        "url": "https://github.com/rivka-dev/nina-carducci.git",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+          
+        ]
+      },
+      
+      {
+        "title": "Kasa , agence de location",
+        "startDate": "2023",
+        "description": "Développer des éléments de l'interface d'un site web grâce à des composants React et configurer la navigation entre les pages de l'application avec React Router",
+        "images": [
+          "images/portfolio/kasa/home.png",
+          "images/portfolio/kasa/homeMobile.png"
+        ],
+        "url": "https://rivka-dev.github.io/kasa-react",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+          
+        ]
+      },
+      {
+        "title": "Mon vieux Grimoire,",
+        "startDate": "2023",
+        "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée",
+        "images": [
+          "images/portfolio/monVieuxGrimoire/accueil.png",
+          "images/portfolio/monVieuxGrimoire/note.png"
+        ],
+        "url": "https://rivka-dev.github.io/kasa-react",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          }
+          
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "DefOpenSource",
+        "title": "Front-End Developer",
+        "years": "10.2019 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      },
+      {
+        "company": "Serros Solutions",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
