@@ -1,3 +1,5 @@
+
+
 {
     "basic_info": {
       "description_header": "Bonjour",
@@ -5,8 +7,7 @@
       "section_name": {
         "about": "About me",
         "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
+        "skills": "Skills"
       }
     },
     "projects": [
@@ -27,14 +28,6 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS3"
-          },
-          {
-            "class": "devicon-git-plain",
-            "name": "git"
-          },
-          {
-            "class": "devicon-github-plain",
-            "name": "github"
           }
         ]
       },
@@ -107,7 +100,7 @@
         ]
       },
       {
-        "title": "Mon vieux Grimoire,",
+        "title": "Mon vieux Grimoire, site de notation de livres",
         "startDate": "2023",
         "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée",
         "images": [
@@ -117,47 +110,22 @@
         "url": "https://rivka-dev.github.io/kasa-react",
         "technologies": [
           {
-            "class": "devicon-react-plain",
-            "name": "React"
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "ExpressJS"
           }
           
         ]
       }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
     ]
+    
+    
   }

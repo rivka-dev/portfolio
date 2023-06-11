@@ -6,11 +6,11 @@ import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 /* GLOBAL VARIABLES */
-
-window.$primaryLanguage = 'fr';
+window.$primaryLanguage = 'pl';
 window.$secondaryLanguage = 'en';
-window.$primaryLanguageIconId = 'secondary-lang-icon';
-window.$secondaryLanguageIconId = 'primary-lang-icon';
+window.$secondaryLanguageIconId = 'secondary-lang-icon';
+window.$primaryLanguageIconId = 'primary-lang-icon';
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.register();

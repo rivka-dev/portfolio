@@ -3,15 +3,11 @@
       "name": "Rivka Muller",
       "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
       "social": [
+        
         {
           "name": "github",
           "url": "https://github.com",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "myProfile.jpg"
@@ -41,15 +37,46 @@
           "level": "70"
         },
        
-        {
-          "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
-          "level": "85"
-        },
         
+        {"name": "MongoDB",
+        "class": "devicon-mongodb-plain",
+        "level":"85"
+           
+        
+      },
+      {"name": "NodeJS",
+        "class": "devicon-nodejs-plain",
+        "level":"85"
+           
+        
+      },
+      {"name": "ExpressJS",
+        "class": "devicon-express-original",
+        "level":"85"
+           
+        
+      },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "60"
+        }
+        ,
+        {
+          "name": "VS Code",
+          "class": "devicon-vscode-plain",
+          "level": "60"
+        }
+        ,
+        {
+          "name": "git",
+          "class": "devicon-git-plain",
+          "level": "60"
+        }
+        ,
+        {
+          "name": "github",
+          "class": "devicon-github-plain",
           "level": "60"
         }
       ]

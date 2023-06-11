@@ -141,6 +141,7 @@ header h1 {
 	transition: all .20s linear;
 	z-index: 0;
 	position: relative;
+	width:90%;
 }
 
 .foto div:after {
@@ -402,24 +403,25 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #efe1bd;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
 	font-size: 14px;
-	color: white;
+	color: black;
 	position: relative;
 	text-align: center;
 }
 
+
 footer a,
 footer a:visited {
-	color: #fff;
+	color: black;
 }
 
 footer a:hover,
 footer a:focus {
-	color: #fff;
+	color: black;
 }
 
 .social-links {
