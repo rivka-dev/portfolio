@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I'm Rivka Muller, ",
+    "description": "I'm Rivka Muller, in the process of obtaining the diploma title RNCP n°32173 'Web Developer', level Bac +2, after an OpenClassrooms training. I decided to follow this course, following the obtaining of the Professional Certificate Technician development computer applications (CP16) which I followed at the cnam and where apart from the java language, I learned the basics of web development. Web developer, seeking to improve myself in the long term, and motivated to use my skills and enrich my experience ",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -46,7 +46,7 @@
         "images/sophieBuel/login.webp",
         "images/sophieBuel/gallerie.webp"
       ],
-        "url": "https://rivka-dev.github.io/SophieBuelProjet3/",
+        "url": "https://github.com/rivka-dev/SophieBuelProjet3.git",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -80,13 +80,7 @@
             "images/NinaCarducci/wave.webp"
           ],
         "url": "https://github.com/rivka-dev/nina-carducci.git",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          }
-          
-        ]
+        
       },
       
       {
@@ -114,7 +108,7 @@
           "images/monVieuxGrimoire/accueil.webp",
           "images/monVieuxGrimoire/notation.webp"
         ],
-        "url": "https://rivka-dev.github.io/kasa-react",
+        "url": "https://github.com/rivka-dev/monGrimoire.git",
         "technologies": [
           {
             "class": "devicon-mongodb-plain",
