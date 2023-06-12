@@ -3,7 +3,7 @@
 {
     "basic_info": {
       "description_header": "Bonjour",
-      "description": "Je suis Rivka Muller, jeune diploômée à l'issue d'une formation OpenClassrooms. Développeuse web, recherchant à m'améliorer constamment, et motivée pour mettre à profit mes compétences et enrichir mon expérience.",
+      "description": "Je suis Rivka Muller, en cours d'obtention du diplôme titre RNCP n°32173 'Développeur Web', niveau Bac +2, à l'issue d'une formation OpenClassrooms. Développeuse web, recherchant à m'améliorer constamment, et motivée pour mettre à profit mes compétences et enrichir mon expérience.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -39,7 +39,7 @@
           "images/sophieBuel/login.webp",
           "images/sophieBuel/gallerie.webp"
         ],
-        "url": "https://rivka-dev.github.io/SophieBuelProjet3/",
+        "url": "https://github.com/rivka-dev/SophieBuelProjet3.git",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -107,7 +107,7 @@
           "images/monVieuxGrimoire/accueil.webp",
           "images/monVieuxGrimoire/notation.webp"
         ],
-        "url": "https://rivka-dev.github.io/kasa-react",
+        "url": "https://github.com/rivka-dev/monGrimoire.git",
         "technologies": [
           {
             "class": "devicon-mongodb-plain",

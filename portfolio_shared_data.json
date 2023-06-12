@@ -1,12 +1,12 @@
 {
     "basic_info": {
       "name": "Rivka Muller",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "titles": [ "Développeuse web" ],
       "social": [
         
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/rivka-dev/rivka_muller_portfolio.git",
           "class": "fab fa-github"
         }
       ],
