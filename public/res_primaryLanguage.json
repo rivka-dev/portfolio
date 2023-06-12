@@ -16,8 +16,8 @@
         "startDate": "2023",
         "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site",
         "images": [          
-          "images/booki1.webp",
-          "images/pageMobile.png"
+          "images/booki/desktop.webp",
+          "images/booki/mobile.webp"
         ],
         "url": "https://rivka-dev.github.io/AgenceVoyageBooki/",
         "technologies": [
@@ -36,8 +36,8 @@
         "startDate": "2023",
         "description": "Créer une page de connexion en html et gérer la connexion de l'utilsateur via des appels à l'API fourni. Création d'un filte des projets dans la galerie, et création d'un modale permettant d'uploader de nouveaux médias. Le code back-end ainsi que l'Api étaient fournis. ",
         "images": [
-          "images/portfolio/sophieBuel/login.png",
-          "images/portfolio/sophieBuel/gallerie.png"
+          "images/sophieBuel/login.webp",
+          "images/sophieBuel/gallerie.webp"
         ],
         "url": "https://rivka-dev.github.io/SophieBuelProjet3/",
         "technologies": [
@@ -52,8 +52,8 @@
         "startDate": "2023",
         "description": "Rédiger les spécifications techniques d'un projet à partir de besoins fonctionnels, suivre le déroulement du projet grâce à un outil de gestion de projet, découper les fonctionnalités en tâches ainsi que présentation de la solution technique",
         "images": [
-          "images/portfolio/qwenta/kanban.png",
-          "images/portfolio/qwenta/specificationsTechniques.png"
+          "images/qwenta/kanban.webp",
+          "images/qwenta/specificationsTechniques.webp"
         ],
         "url": "https://www.notion.so/da9c876ba92c4c1092b77f4bfeea3285?v=464151634dba4005993d5c3e65d2e82d&pvs=4",
         "technologies": [
@@ -69,8 +69,8 @@
         "startDate": "2023",
         "description": "Amélioration du site qui est déja fournit, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
         "images": [  
-        "images/portfolio/ninaCarducci/lighthouse.png",
-          "images/portfolio/ninaCarducci/wave.png"
+        "images/NinaCarducci/lighthouse.webp",
+          "images/NinaCarducci/wave.webp"
         ],
         "url": "https://github.com/rivka-dev/nina-carducci.git",
         "technologies": [
@@ -87,8 +87,8 @@
         "startDate": "2023",
         "description": "Développer des éléments de l'interface d'un site web grâce à des composants React et configurer la navigation entre les pages de l'application avec React Router",
         "images": [
-          "images/portfolio/kasa/home.png",
-          "images/portfolio/kasa/homeMobile.png"
+          "images/kasa/desktop.webp",
+          "images/kasa/mobile.webp"
         ],
         "url": "https://rivka-dev.github.io/kasa-react",
         "technologies": [
@@ -104,8 +104,8 @@
         "startDate": "2023",
         "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée",
         "images": [
-          "images/portfolio/monVieuxGrimoire/accueil.png",
-          "images/portfolio/monVieuxGrimoire/note.png"
+          "images/monVieuxGrimoire/accueil.webp",
+          "images/monVieuxGrimoire/notation.webp"
         ],
         "url": "https://rivka-dev.github.io/kasa-react",
         "technologies": [
