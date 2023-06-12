@@ -55,39 +55,35 @@
         "level":"85"
            
         
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
+        "level": "60"
       }
-      ]
-    },
-    "tools": {
-      "icons": [
-        {
-          "name": "Figma",
-          "class": "devicon-figma-plain",
-          "level": "60"
-        }
-        ,
-        {
-          "name": "VS Code",
-          "class": "devicon-vscode-plain",
-          "level": "60"
-        }
-        ,
-        {
-          "name": "git",
-          "class": "devicon-git-plain",
-          "level": "60"
-        }
-        ,
-        {
-          "name": "github",
-          "class": "devicon-github-plain",
-          "level": "60"
-        },
-        {
-          "name": "postman",
-          "src": "images/booki/postman.png",
-          "level": "60"
-        }
+      ,
+      {
+        "name": "VS Code",
+        "class": "devicon-vscode-plain",
+        "level": "60"
+      }
+      ,
+      {
+        "name": "git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      }
+      ,
+      {
+        "name": "github",
+        "class": "devicon-github-plain",
+        "level": "60"
+      },
+      {
+        "name": "postman",
+        "src": "images/booki/postman.png",
+        "level": "60"
+      }
       ]
     }
   }
