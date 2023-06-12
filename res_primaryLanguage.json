@@ -69,8 +69,8 @@
         "startDate": "2023",
         "description": "Amélioration du site qui est déja fournit, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
         "images": [  
-        "images/ninaCarducci/lighthouse.webp",
-          "images/ninaCarducci/wave.webp"
+        "images/NinaCarducci/lighthouse.webp",
+          "images/NinaCarducci/wave.webp"
         ],
         "url": "https://github.com/rivka-dev/nina-carducci.git",
         "technologies": [
