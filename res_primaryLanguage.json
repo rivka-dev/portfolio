@@ -3,7 +3,7 @@
 {
     "basic_info": {
       "description_header": "Bonjour",
-      "description": "Je suis Rivka Muller, en cours d'obtention du diplôme titre RNCP n°32173 'Développeur Web', niveau Bac +2, à l'issue d'une formation OpenClassrooms. J'ai décidé de suivre ce parcours, suite à l'obtention du Certificat Professionnel Technicien développement applications informatique (CP16)que j'ai suivi au cnam et où mis à part le langage java, j'ai appris les bases du développement web. Développeuse web, recherchant à m'améliorer constamment, et motivée pour mettre à profit mes compétences et enrichir mon expérience.",
+      "description": "Je suis Rivka Muller, en cours d'obtention du diplôme titre RNCP n°32173 'Développeur Web', niveau Bac +2, à l'issue d'une formation OpenClassrooms. J'ai décidé de suivre ce parcours, suite à l'obtention du Certificat Professionnel Technicien développement applications informatique (CP16) que j'ai suivi au CNAM. Mis à part le langage Java, j'y avais appris les bases du développement web. Développeuse web, je recherche à améliorer constamment mes connaissances et suis motivée à mettre à profit mes compétences et enrichir mes expériences.",
       "section_name": {
         "about": "Un peu sur moi",
         "projects": "Projets OpenClassroom",
@@ -14,7 +14,7 @@
       {
         "title": "Booki, agence de voyage",
         "startDate": "2023",
-        "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site",
+        "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site.",
         "images": [          
           "images/booki/desktop.webp",
           "images/booki/mobile.webp"
@@ -67,10 +67,10 @@
       {
         "title": "Nina Carducci, site de photographe",
         "startDate": "2023",
-        "description": "Amélioration du site qui est déja fournit, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
+        "description": "Amélioration du site qui est déja fourni, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
         "images": [  
-        "images/NinaCarducci/lighthouse.webp",
-          "images/NinaCarducci/wave.webp"
+          "images/ninaCarducci/lighthouse.webp",
+          "images/ninaCarducci/wave.webp"
         ],
         "url": "https://github.com/rivka-dev/nina-carducci.git"
         
