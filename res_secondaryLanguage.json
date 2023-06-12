@@ -5,7 +5,8 @@
     "section_name": {
       "about": "About me",
       "projects": "Projects",
-      "skills": "Skills"
+      "skills": "Skills",
+      "tools":"Tools"
       
     }
   },
@@ -76,8 +77,8 @@
         "startDate": "2023",
         "description": "Improvement of the site which is already provided, I have to improve its SEO and its accessibility as well as correct bugs",
         "images": [  
-          "images/NinaCarducci/lighthouse.webp",
-            "images/NinaCarducci/wave.webp"
+          "images/ninaCarducci/lighthouse.webp",
+            "images/ninaCarducci/wave.webp"
           ],
         "url": "https://github.com/rivka-dev/nina-carducci.git"
         

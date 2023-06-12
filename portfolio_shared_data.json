@@ -55,7 +55,11 @@
         "level":"85"
            
         
-      },
+      }
+      ]
+    },
+    "tools": {
+      "icons": [
         {
           "name": "Figma",
           "class": "devicon-figma-plain",
