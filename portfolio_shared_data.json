@@ -82,6 +82,11 @@
           "name": "github",
           "class": "devicon-github-plain",
           "level": "60"
+        },
+        {
+          "name": "postman",
+          "src": "images/booki/postman.png",
+          "level": "60"
         }
       ]
     }
