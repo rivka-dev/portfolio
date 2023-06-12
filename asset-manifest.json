@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/rivka_muller_portfolio/static/css/main.7568b89d.css",
+    "main.css": "/rivka_muller_portfolio/static/css/main.57ab58ff.css",
     "main.js": "/rivka_muller_portfolio/static/js/main.966dd9ee.js",
     "index.html": "/rivka_muller_portfolio/index.html",
-    "main.7568b89d.css.map": "/rivka_muller_portfolio/static/css/main.7568b89d.css.map",
+    "main.57ab58ff.css.map": "/rivka_muller_portfolio/static/css/main.57ab58ff.css.map",
     "main.966dd9ee.js.map": "/rivka_muller_portfolio/static/js/main.966dd9ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.7568b89d.css",
+    "static/css/main.57ab58ff.css",
     "static/js/main.966dd9ee.js"
   ]
 }
