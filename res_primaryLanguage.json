@@ -16,7 +16,7 @@
         "startDate": "2023",
         "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site",
         "images": [          
-          "images/booki1.webp",
+          "images/booki/booki1.webp",
           "images/pageMobile.png"
         ],
         "url": "https://rivka-dev.github.io/AgenceVoyageBooki/",
