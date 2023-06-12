@@ -7,6 +7,7 @@ import About from "./components/About";
 
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import Tools from "./components/Tools";
 
 class App extends Component {
 
@@ -127,6 +128,10 @@ class App extends Component {
         />
         <Skills
           sharedSkills={this.state.sharedData.skills}
+          resumeBasicInfo={this.state.resumeData.basic_info}
+        />
+        <Tools
+          sharedTools={this.state.sharedData.tools}
           resumeBasicInfo={this.state.resumeData.basic_info}
         />
         
