@@ -1,9 +1,8 @@
 {
     "basic_info": {
       "name": "Rivka Muller",
-      "titles": [ "Développeuse web" ],
-      "social": [
-        
+      "titles": [ "Développeuse web" ,"Web debeloper"],
+      "social": [        
         {
           "name": "github",
           "url": "https://github.com/rivka-dev/rivka_muller_portfolio.git",
@@ -23,9 +22,7 @@
           "name": "CSS 3",
           "class": "devicon-css3-plain",
           "level": "95"
-        },
-       
-        
+        },      
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
@@ -35,26 +32,18 @@
           "name": "React",
           "class": "devicon-react-plain",
           "level": "70"
-        },
-       
-        
+        },      
         {"name": "MongoDB",
         "class": "devicon-mongodb-plain",
-        "level":"85"
-           
-        
-      },
-      {"name": "NodeJS",
+        "level":"85"          
+        },
+        {"name": "NodeJS",
         "class": "devicon-nodejs-plain",
-        "level":"85"
-           
-        
+        "level":"85"          
       },
       {"name": "ExpressJS",
         "class": "devicon-express-original",
-        "level":"85"
-           
-        
+        "level":"85"           
       },
       {
         "name": "Figma",

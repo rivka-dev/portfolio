@@ -1,20 +1,18 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "I'm Rivka Muller, in the process of obtaining the diploma title RNCP n°32173 'Web Developer', level Bac +2, after an OpenClassrooms training. I decided to follow this course, following the obtaining of the Professional Certificate Technician development computer applications (CP16) which I followed at the cnam and where apart from the java language, I learned the basics of web development. Web developer, seeking to improve myself in the long term, and motivated to use my skills and enrich my experience ",
+    "description": "I'm Rivka Muller, in the process of obtaining the diploma title RNCP n°32173 'Web Developer', level Bac +2, after an OpenClassrooms training. I decided to follow this course, following the obtaining of the Professional Certificate Technician development computer applications (CP16) which I followed at the cnam. Apart from the java language, I learned there the basics of web development. As a web developer, I am constantly seeking to improve myself and am motivated to use my skills and enrich my experiences.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
-      "skills": "Skills"
-      
-      
+      "skills": "Skills"     
     }
   },
   "projects": [
     {
       "title": "Booki, travel agency",
       "startDate": "2023",
-      "description": "Integrate content according to a model with HTML & CSS while respecting the responsive aspect of the site",
+      "description": "Integrate content according to a model with HTML & CSS while respecting the responsive aspect of the site.",
       "images": [          
           "images/booki/desktop.webp",
           "images/booki/mobile.webp"
@@ -58,7 +56,7 @@
     {
         "title": "Menu Maker by Qwenta",
         "startDate": "2023",
-        "description": "Write the technical specifications of a project based on functional needs, follow the progress of the project using a project management tool, divide the functionalities into tasks and present the technical solution",
+        "description": "Write the technical specifications of a project based on functional needs, follow the progress of the project using a project management tool, divide the functionalities into tasks and present the technical solution.",
         "images": [
           "images/qwenta/kanban.webp",
           "images/qwenta/specificationsTechniques.webp"
@@ -75,19 +73,18 @@
       {
         "title": "Nina Carducci, photograph site",
         "startDate": "2023",
-        "description": "Improvement of the site which is already provided, I have to improve its SEO and its accessibility as well as correct bugs",
+        "description": "Improvement of the site which is already provided, I have to improve its SEO and its accessibility as well as correct bugs.",
         "images": [  
           "images/ninaCarducci/lighthouse.webp",
             "images/ninaCarducci/wave.webp"
           ],
-        "url": "https://github.com/rivka-dev/nina-carducci.git"
-        
+        "url": "https://github.com/rivka-dev/nina-carducci.git"        
       },
       
       {
         "title": "Kasa , rental agency",
         "startDate": "2023",
-        "description": "Develop interface elements of a website using React components and configure navigation between application pages with React Router",
+        "description": "Develop interface elements of a website using React components and configure navigation between application pages with React Router.",
         "images": [
           "images/kasa/desktop.webp",
           "images/kasa/mobile.webp"
@@ -97,14 +94,13 @@
           {
             "class": "devicon-react-plain",
             "name": "React"
-          }
-          
+          }          
         ]
       },
       {
         "title": "My old Grimoire, book rating site",
         "startDate": "2023",
-        "description": "Realization of the Backend of the site by implementing CRUD operations and storing data securely",
+        "description": "Realization of the Backend of the site by implementing CRUD operations and storing data securely.",
         "images": [
           "images/monVieuxGrimoire/accueil.webp",
           "images/monVieuxGrimoire/notation.webp"
