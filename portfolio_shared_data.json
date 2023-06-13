@@ -1,11 +1,18 @@
 {
     "basic_info": {
       "name": "Rivka Muller",
-      "titles": [ "Développeuse web" ,"Web debeloper"],
+      "titles": [ "Développeuse web" ,"Web developer"],
       "social": [        
         {
           "name": "github",
           "url": "https://github.com/rivka-dev/rivka_muller_portfolio.git",
+          "class": "fab fa-github"
+        }
+      ],
+      "github":[        
+        {
+          "name": "github",
+          "url": "https://github.com/rivka-dev",
           "class": "fab fa-github"
         }
       ],
@@ -66,6 +73,11 @@
       {
         "name": "github",
         "class": "devicon-github-plain",
+        "level": "60"
+      },
+      {
+        "name": "npm",
+        "class": "devicon-npm-original-wordmark",
         "level": "60"
       }
       ]
