@@ -72,7 +72,14 @@
           "images/ninaCarducci/lighthouse.webp",
           "images/ninaCarducci/wave.webp"
         ],
-        "url": "https://github.com/rivka-dev/nina-carducci.git"
+        "url": "https://github.com/rivka-dev/nina-carducci.git",
+        "technologies": [
+          {
+            "class": "",
+            "name": ""
+          }
+          
+        ]
         
       },
       
