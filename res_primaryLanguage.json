@@ -15,6 +15,7 @@
         "title": "Booki, agence de voyage",
         "startDate": "2023",
         "description": "Intégrer du contenu confomément à une maquette  avec HTML & CSS tout en veillant à l'aspect responsive du site.",
+        "problem":"",
         "images": [          
           "images/booki/desktop.webp",
           "images/booki/mobile.webp"
@@ -34,7 +35,8 @@
       {
         "title": "Sophie Buel, architecte d'intérieur",
         "startDate": "2023",
-        "description": "Créer une page de connexion en html et gérer la connexion de l'utilsateur via des appels à l'API fourni. Création d'un filte des projets dans la galerie, et création d'un modale permettant d'uploader de nouveaux médias. Le code back-end ainsi que l'Api étaient fournis. ",
+        "description": "Créer une page de connexion en html et gérer la connexion de l'utilsateur via des appels à l'API fourni. Création d'un filtre des projets dans la galerie, et création d'un modale permettant d'uploader de nouveaux médias. Le code back-end ainsi que l'Api étaient fournis. ",
+        "problem":"Il fallait s'assurer que lors de la suppression d'un travail, celui-ci soit supprimé dans le DOM sans recharger la page. Après diverses recherches sur le web, j'ai utilisé la fonction remove pour supprimer tous les élements qui avaient le data-id de ce travail. Il fallait aussi s'assurer que les évenements de la souris soient ajoutés depuis le javascript et non pas intégrés dans le HTML. Il m'a donc fallu utiliser la fonction 'addEventListener'.",
         "images": [
           "images/sophieBuel/login.webp",
           "images/sophieBuel/gallerie.webp"
@@ -50,12 +52,12 @@
       {
         "title": "Menu Maker by Qwenta",
         "startDate": "2023",
-        "description": "Rédiger les spécifications techniques d'un projet à partir de besoins fonctionnels, suivre le déroulement du projet grâce à un outil de gestion de projet, découper les fonctionnalités en tâches ainsi que présentation de la solution technique",
+        "description": "Rédiger les spécifications techniques d'un projet à partir de besoins fonctionnels, suivre le déroulement du projet grâce à un outil de gestion de projet, découper les fonctionnalités en tâches ainsi que présentation de la solution technique.",
         "images": [
           "images/qwenta/kanban.webp",
           "images/qwenta/specificationsTechniques.webp"
         ],
-        "url": "https://www.notion.so/da9c876ba92c4c1092b77f4bfeea3285?v=464151634dba4005993d5c3e65d2e82d&pvs=4",
+        "url": "https://ring-kingfisher-8ca.notion.site/da9c876ba92c4c1092b77f4bfeea3285?v=464151634dba4005993d5c3e65d2e82d",
         "technologies": [
           {
             "class": "",
@@ -67,7 +69,8 @@
       {
         "title": "Nina Carducci, site de photographe",
         "startDate": "2023",
-        "description": "Amélioration du site qui est déja fourni, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs",
+        "description": "Amélioration du site qui est déja fourni, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs.  ",
+        "problem":"Il a fallu utiliser les dev-tools pour debugger et cet outil étant nouveau pour moi, celà m'a pris un peu de temps. Je suis allée pas à pas dans le code, qui redirigeait vers un long fichier javascript. Il fallait faire attention à ne pas aller trop vite sinon des étapes pouvaient être sautées. A force de perséverer, j'ai trouvé la solution au problème.",
         "images": [  
           "images/ninaCarducci/lighthouse.webp",
           "images/ninaCarducci/wave.webp"
@@ -86,7 +89,7 @@
       {
         "title": "Kasa , agence de location",
         "startDate": "2023",
-        "description": "Développer des éléments de l'interface d'un site web grâce à des composants React et configurer la navigation entre les pages de l'application avec React Router",
+        "description": "Développer des éléments de l'interface d'un site web grâce à des composants React et configurer la navigation entre les pages de l'application avec React Router.",
         "images": [
           "images/kasa/desktop.webp",
           "images/kasa/mobile.webp"
@@ -103,7 +106,8 @@
       {
         "title": "Mon vieux Grimoire, site de notation de livres",
         "startDate": "2023",
-        "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée",
+        "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée.  ",
+        "problem":"Une fiche logement donnant les détails pour un logement spécifique devait être créée, mais je ne voyais pas comment récupéer les données d'un seul logement parmi toutes la liste json fournie. Après avoir sollicité de l'aide à d'autres étudiants ainsi que des recherches sur le web, j'ai utilisé la fonction useParams pour retrouver le id, et ensuite ai recherché celui-ci parmi tous les logements avec la fonction find. Les cartes d'images devaient aussi avoir un dégradé au dessus  et il a fallu plusieurs essais sur chrome pour découvrir qu'il fallait utiliser le css sur le sélecteur  'li &:before'.",
         "images": [
           "images/monVieuxGrimoire/accueil.webp",
           "images/monVieuxGrimoire/notation.webp"
