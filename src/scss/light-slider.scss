@@ -144,12 +144,7 @@ $content-background-color: #D7CAAA;
       .#{$root-element}__controls__arrow-right {
         opacity: var(--control-button-opacity);
       }
-      &:hover {
-        .#{$root-element}__controls__arrow-left,
-        .#{$root-element}__controls__arrow-right {
-          opacity: var(--control-button-opacity-hover);
-        }
-      }
+      
     }
     &--active {
       .#{$root-element}__controls__arrow-left {
