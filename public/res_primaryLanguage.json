@@ -90,6 +90,7 @@
         "title": "Kasa , agence de location",
         "startDate": "2023",
         "description": "Développer des éléments de l'interface d'un site web grâce à des composants React et configurer la navigation entre les pages de l'application avec React Router.",
+        "problem":"Une fiche logement donnant les détails pour un logement spécifique devait être créée, mais je ne voyais pas comment récupéer les données d'un seul logement parmi toutes la liste json fournie. Après avoir sollicité de l'aide à d'autres étudiants ainsi que des recherches sur le web, j'ai utilisé la fonction useParams pour retrouver le id, et ensuite ai recherché celui-ci parmi tous les logements avec la fonction find. Les cartes d'images devaient aussi avoir un dégradé au dessus  et il a fallu plusieurs essais sur chrome pour découvrir qu'il fallait utiliser le css sur le sélecteur  'li &:before'.",
         "images": [
           "images/kasa/desktop.webp",
           "images/kasa/mobile.webp"
@@ -107,7 +108,6 @@
         "title": "Mon vieux Grimoire, site de notation de livres",
         "startDate": "2023",
         "description": "Réalisation du Backend du site en mettant en oeuvre des opérations CRUD et en stockant des données de manière sécurisée.  ",
-        "problem":"Une fiche logement donnant les détails pour un logement spécifique devait être créée, mais je ne voyais pas comment récupéer les données d'un seul logement parmi toutes la liste json fournie. Après avoir sollicité de l'aide à d'autres étudiants ainsi que des recherches sur le web, j'ai utilisé la fonction useParams pour retrouver le id, et ensuite ai recherché celui-ci parmi tous les logements avec la fonction find. Les cartes d'images devaient aussi avoir un dégradé au dessus  et il a fallu plusieurs essais sur chrome pour découvrir qu'il fallait utiliser le css sur le sélecteur  'li &:before'.",
         "images": [
           "images/monVieuxGrimoire/accueil.webp",
           "images/monVieuxGrimoire/notation.webp"
