@@ -1,7 +1,11 @@
 {
   "basic_info": {
     "description_header": "Hi",
+<<<<<<< HEAD
     "description": "I'm Rivka Muller, graduate of the diploma title RNCP n°32173 'Web Developer', an associate degree, after an OpenClassrooms training. I decided to follow this course, following the obtaining of the Professional Certificate Technician development computer applications (CP16), course which I followed at the cnam. Apart from the java language, I learned there the basics of web development. As a web developer, I am constantly seeking to improve myself and am motivated to use my skills and enrich my experiences.",
+=======
+    "description": "I'm Rivka Muller, graduate of the RNCP diploma title n°32173 'Web Developer', an associate degree, after an OpenClassrooms training. I decided to follow this course, following the obtaining of the Professional Certificate Technician development computer applications (CP16), course which I followed at the cnam. Apart from the java language, I learned there the basics of web development. As a web developer, I am constantly seeking to improve myself and am motivated to use my skills and enrich my experiences.",
+>>>>>>> a4c4e1126b8d95b8fd462df46a6d9e986630644c
     "section_name": {
       "about": "About me",
       "projects": "OpenClassrooms Projects",
