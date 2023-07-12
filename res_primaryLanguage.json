@@ -72,8 +72,8 @@
         "description": "Amélioration du site qui est déja fourni, je dois améliorer son SEO et son accessibilité ainsi que corriger des bugs.  ",
         "problem":"Il a fallu utiliser les dev-tools pour debugger et cet outil étant nouveau pour moi, celà m'a pris un peu de temps. Je suis allée pas à pas dans le code, qui redirigeait vers un long fichier javascript. Il fallait faire attention à ne pas aller trop vite sinon des étapes pouvaient être sautées. A force de perséverer, j'ai trouvé la solution au problème.",
         "images": [  
-          "images/ninaCarducci/lighthouse.webp",
-          "images/ninaCarducci/wave.webp"
+          "images/NinaCarducci/lighthouse.webp",
+          "images/NinaCarducci/wave.webp"
         ],
         "url": "https://github.com/rivka-dev/nina-carducci.git",
         "technologies": [
